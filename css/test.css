@@ -1,0 +1,32 @@
+body{
+
+	background-color: lightpink;
+}
+
+h1{
+	font-size: 30px;
+	color:teal;
+
+}
+
+h2{
+
+	font-size: 20px;
+	color:green;
+}
+
+.small{
+	font-size: 60px;
+}
+
+.uppercase{
+	text-transform: uppercase;
+}
+
+.small.uppercase{
+	color: yellow;
+}
+
+span{
+	color: violet;
+}
